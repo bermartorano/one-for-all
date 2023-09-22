@@ -1,10 +1,6 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 🎵 One for All
+
+Projeto desenvolvido para a aprendizagem de SQL e MySQL durante o curso de desenvolvimento web da Trybe. Neste projeto, uma tabela de dados sobre um clone do spotify contendo músicas, artistas, pessoas usuárias, planos de assinatura e histórico de reprodução foi normalizada, e como requisitos várias queries foram solicitadas.
+
+## Detalhes
+![requisitos](https://github.com/bermartorano/one-for-all/assets/110858573/1ac5fa38-93d7-4bd9-ba2d-d8a7dd3844a8)
